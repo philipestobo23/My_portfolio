@@ -13,7 +13,7 @@
 :root {
 
     --background-color: #000000;
-    --header-background-color: #656565;
+    --header-background-color: #000000;
     --text-color: rgb(0, 0, 0);
     --header-text-color: rgb(255, 254, 254);
     --second-color: #ffe77aff;
